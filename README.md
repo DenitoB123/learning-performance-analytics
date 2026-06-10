@@ -26,72 +26,120 @@ Optional: study hours / revision patterns (future expansion)
 
 ## 📁 Data location:
 
-data/raw/
+  data/raw/
 
-data/cleaned/
+  data/cleaned/
 
 ## 🛠️ Tools & Technologies
-Python 🐍
-Pandas (data analysis)
-NumPy (numerical analysis)
-Matplotlib / Seaborn (visualization)
-Jupyter Notebook
-Git & GitHub
+  
+  Python 🐍
+  
+  Pandas (data analysis)
+  
+  NumPy (numerical analysis)
+  
+  Matplotlib / Seaborn (visualization)
+  
+  Jupyter Notebook
+  
+  Git & GitHub
 
 ## 🔍 Methodology
-Data collection
-Data cleaning and preprocessing
-Exploratory data analysis (EDA)
-Pattern detection and correlation analysis
-Visualization of learning trends
-Interpretation of results
+  
+  Data collection
+  
+  Data cleaning and preprocessing
+  
+  Exploratory data analysis (EDA)
+  
+  Pattern detection and correlation analysis
+  
+  Visualization of learning trends
+  
+  Interpretation of results
 
 ## 📓 Project Structure
-learning-performance-analytics/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_analysis.ipynb
-│   └── 03_modeling.ipynb
-│
-├── analysis/
-│   ├── findings.md
-│   └── insights.md
-│
-├── visuals/
-│   ├── charts/
-│   └── graphs/
-│
-└── README.md
+  
+  learning-performance-analytics/
+  
+  │
+  
+  ├── data/
+  
+  │   ├── raw/
+  
+  │   └── cleaned/
+  
+  │
+  
+  ├── notebooks/
+  
+  │   ├── 01_data_exploration.ipynb
+  
+  │   ├── 02_analysis.ipynb
+  
+  │   └── 03_modeling.ipynb
+  
+  │
+  
+  ├── analysis/
+  
+  │   ├── findings.md
+  
+  │   └── insights.md
+  
+  │
+  
+  ├── visuals/
+  
+  │   ├── charts/
+  
+  │   └── graphs/
+  
+  │
+  
+  └── README.md
 
 ## 📈 Key Questions
-Which subjects show the most consistency in performance?
-Are there patterns in improvement or decline over time?
-How do different subjects relate to overall performance?
-What factors may influence academic performance trends?
+  
+  Which subjects show the most consistency in performance?
+  
+  Are there patterns in improvement or decline over time?
+  
+  How do different subjects relate to overall performance?
+  
+  What factors may influence academic performance trends?
 
 ## 📊 Expected Outputs
-Performance trend charts
-Subject comparison graphs
-Correlation insights between subjects
-Written findings on learning behavior patterns
-🚧 Current Status
+  
+  Performance trend charts
+  
+  Subject comparison graphs
+  
+  Correlation insights between subjects
+  
+  Written findings on learning behavior patterns
+  
+  ## 🚧 Current Status
 
-## 🟡 Early development stage
+  🟡 Early development stage
 
-Repository structure set up
-Data collection and preparation in progress
-Initial analysis not yet completed
+  
+  Repository structure set up
+  
+  Data collection and preparation in progress
+  
+  Initial analysis not yet completed
 
 ## 🚀 Future Work
-Expand dataset with real longitudinal student data
-Add predictive modeling for performance forecasting
-Integrate learning behavior metrics (study time, revision habits)
-Connect insights to educational intervention strategies
+  
+  Expand dataset with real longitudinal student data
+  
+  Add predictive modeling for performance forecasting
+  
+  Integrate learning behavior metrics (study time, revision habits)
+  
+  Connect insights to educational intervention strategies
 
 ## 🧠 Why This Project Matters
 
