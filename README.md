@@ -145,7 +145,7 @@ Optional: study hours / revision patterns (future expansion)
 
 Understanding learning patterns helps move education from intuition-based decisions to evidence-based improvement. This project aims to contribute to that shift by making student performance more measurable, interpretable, and actionable.
 
-👤 Author
+## 👤 Author
 
 Dennis Mucia
 Research focus: education systems, opportunity inequality, and data-driven learning improvement
